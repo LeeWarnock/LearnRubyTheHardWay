@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 # A Good First Program
 
 # puts "Hello World!!"
