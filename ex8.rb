@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# Printing, Printing, Printing
+# Printing, Printing
 
 formatter = "%{first} %{second} %{third} %{fourth}"
 
